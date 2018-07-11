@@ -1,10 +1,13 @@
 {
-  "currentCompetition": [{"id": 1,
-          "date": "27-06-2018",
-          "timeBegin": "14:00",
-          "timeEnd": "19:00",
-          "competitionName": "Жара-2018",
-          "daysList": [{
+  "currentCompetition": [
+    {
+      "id": 1,
+      "date": "27-06-2018",
+      "timeBegin": "14:00",
+      "timeEnd": "19:00",
+      "competitionName": "Жара-2018",
+      "daysList": [
+        {
           "competitionID": 1,
           "date": "27-06-2018",
           "timeBegin": "14:00",
