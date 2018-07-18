@@ -2,23 +2,24 @@
   "currentCompetition":
     {
       "id": 1,
-      "date": "27-06-2018",
-      "timeBegin": "14:00",
+      "dateBegin": "2018-06-27",
+      "dateFinish": "2018-06-28",
+      "timeBegin": "8:00",
       "timeEnd": "19:00",
       "competitionName": "Жара-2018",
       "daysList": [
         {
           "competitionID": 1,
-          "date": "27-06-2018",
-          "timeBegin": "14:00",
+          "date": "2018-06-27",
+          "timeBegin": "8:00",
           "timeEnd": "19:00",
           "numericalNumber": 1,
           "dayID": 1
         },
         {
           "competitionID": 1,
-          "date": "28-06-2018",
-          "timeBegin": "14:00",
+          "date": "2018-06-28",
+          "timeBegin": "8:00",
           "timeEnd": "19:00",
           "numericalNumber": 2,
           "dayID": 2
