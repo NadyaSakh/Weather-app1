@@ -1,5 +1,5 @@
 {
-  "currentCompetition": [
+  "currentCompetition":
     {
       "id": 1,
       "date": "27-06-2018",
@@ -70,5 +70,4 @@
       ],
       "partiсipantsNumber": 2
     }
-  ]
 }
